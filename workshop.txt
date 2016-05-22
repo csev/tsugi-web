@@ -1,0 +1,14 @@
+
+Install PHP:
+
+http://www.php-intro.com/install
+
+Checkout Tsugi:
+
+https://github.com/csev/tsugi
+
+Setup Tsugi:
+
+http://localhost:8888/tsugi
+
+
