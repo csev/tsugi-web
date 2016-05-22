@@ -1,4 +1,8 @@
 
+Lecture Slides:
+
+http://www.tsugi.org/docs/lectures
+
 Install PHP:
 
 http://www.php-intro.com/install
