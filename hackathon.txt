@@ -1,0 +1,28 @@
+While we can work on anything we like, here are a few ideas I have:
+
+- Build a Caliper implementation for one or more of the versions (PHP, Java, or Node)
+- Clean up the Documentation - lots of methods in PHP are still not 
+documented - this is a lot of easy commits / PRs to get folks started
+- Add grade return to the Node and/or Java versions
+- Build a Python version of Tsugi
+- Build a brand new tool - like a threaded discussion - 
+maybe in PHP, maybe in Node - maybe both :)
+
+In terms of getting started - installing the Tsugi developer/management 
+console is a good start:
+
+https://github.com/csev/tsugi/blob/master/docs/DEVELOP.md
+
+Perhaps play with the exercises:
+
+https://lti-tools.dr-chuck.com/exercises/
+
+Then adding the Java or Node versions:
+
+https://github.com/csev/tsugi-node-sample
+https://github.com/csev/tsugi-java-servlet
+
+Even more advanced folks can run the cross-language functionality test:
+
+https://github.com/csev/tsugi-python-test
+
