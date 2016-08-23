@@ -31,6 +31,6 @@ https://sakai.ngrok.io/imsblti/provider/canvas-config.xml
 
 Make sure 12345 consumer is not trusted
 
-https://lti-tools.dr-chuck.com/tsugi/lti/canvas-content-item-xml.php
+https://lti-tools.dr-chuck.com/tsugi/lti/store/canvas-config.xml
 
 https://umich.instructure.com/
